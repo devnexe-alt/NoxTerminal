@@ -29,7 +29,7 @@ pip install PyQt5 pywinpty pyte
 
 ### 1. Clone the repository:
 ```
-git clone [https://github.com/devnexe-alt/NoxTerminal.git](https://github.com/devnexe-alt/NoxTerminal.git)
+git clone https://github.com/devnexe-alt/NoxTerminal.git
 ```
 
 ### 2. Run the terminal:
