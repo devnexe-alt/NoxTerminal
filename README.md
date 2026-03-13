@@ -165,6 +165,6 @@ NoxTerminal/
 
 <div align="center">
 
-Made by [DevNexe](https://github.com/devnexe-alt)
+Made by [DevNexe](https://github.com/devnexe)
 
 </div>
